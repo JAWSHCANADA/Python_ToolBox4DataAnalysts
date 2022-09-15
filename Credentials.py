@@ -9,6 +9,9 @@ Purpose: For any DB Connection or Login Credentials Requires Username and Passwo
          
          EinsteinAlb  <--Username
          Emc2 <--Password
+         
+Developer: Jawsh Canada 
+Date Published: 2022-09-15
 '''
 class Credentials(object): 
  def retreivePassword() :
